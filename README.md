@@ -1162,7 +1162,7 @@
             <div class="stat-label">Unidades associadas em todo o Brasil</div>
           </div>
           <div class="hero-stat-card">
-            <div class="stat-number">11</div>
+            <div class="stat-number">12</div>
             <div class="stat-label">Professores orientadores no Campus Ceres</div>
           </div>
         </div>
@@ -1596,7 +1596,7 @@
         <div class="diss-stat"><div class="ds-num">122</div><div class="ds-lbl">dissertações defendidas</div></div>
         <div class="diss-stat"><div class="ds-num">7</div><div class="ds-lbl">anos de produção (2019–2025)</div></div>
         <div class="diss-stat"><div class="ds-num">2</div><div class="ds-lbl">linhas de pesquisa</div></div>
-        <div class="diss-stat"><div class="ds-num">11</div><div class="ds-lbl">professores orientadores</div></div>
+        <div class="diss-stat"><div class="ds-num">12</div><div class="ds-lbl">professores orientadores</div></div>
       </div>
 
       <!-- Legendas -->
